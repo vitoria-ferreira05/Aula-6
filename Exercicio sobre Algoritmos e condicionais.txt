@@ -1,0 +1,56 @@
+Exercícios sobre Algoritmos e Condicionais
+
+1. Faça um algoritmo para fazer café.
+
+Resposta:
+	1. Encha a panela com água
+	2. Coloque o açúcar na água
+	3. Coloque a panela com água para ferver
+	4. Enquanto a água ferve, coloque o pó do café no coador 
+	5. Se a água estiver fervendo, desligue o fogo
+	6. Despeje a água no coador que está com pó e na garrafa de café
+	7. Espere a água toda descer
+	8. Retire o coador e feche a garrafa com a tampa
+	9. O café está pronto
+
+2. Faça um algoritmo para fazer compras de remédios.
+
+Resposta:
+	1. Vá em um médico
+	2. Pegue a receita
+	3. Pegue um meio de transporte
+	4. Vá a farmácia
+	5. Apresente a receita feita pelo médico
+	6. Pegue os remédios
+	7. Pague no caixa
+	8. Pegue os remédios e volte para casa.
+
+
+3. Faça um algoritmo para fazer um bolo de chocolate.
+
+Resposta:
+	1. Pegue os ingredientes  
+	2. Duas xícaras de farinha de trigo
+	3. Uma xícara e meia de açúcar
+	4. Uma xícara de chocolate em pó
+	5. Uma colher de sopa de fermento em pó
+	6. Uma xícara de óleo
+	7. Três ovos
+	8. Duas xícaras de água fervente
+	9. Pegue uma vasilha e misture a farinha de trigo, o açúcar, o chocolate em pó e o fermento
+	10. Em seguida junte o óleo, os ovos e a água fervente e misture bem
+	11. Despeje a massa em uma forma untada com óleo e polvilhada cim farinha de trigo
+	12. Leve ao forno médio preaquecido por 40 minutos.
+
+4. Criar um algoritmo para começar a trabalhar.
+
+Resposta: 
+	1. Acordar às 06h30
+	2. Levantar da cama
+	3. Escovar os dentes
+	4. Tomar café
+	5. Tomar banho
+	6. Estudar máterias da faculdade das 07h30 até 09h30
+	7. Ligar o notebook do trabalho, logar com livepass
+	8. Entrar na reunião 
+	9. Começar a trabalhar
